@@ -1,0 +1,61 @@
+vi nano file edit 
+
+sudo stand for super users duet
+vi with new file 
+:qw! to save the in vi 
+mv new/tmp/
+Demo123 ubuntu pass word 
+exit from server 
+
+
+
+4 R read for file permission 
+2 W write
+1 X Excute
+h
+  
+apt update apt upgrade 
+
+sudo apt install docker.io -y
+sudo apt install openjdk-21-jre
+sudo apt show docker.io
+
+clear 
+history
+apt update 
+sudo apt remove git
+sudo list all
+sudo apt list 
+sudo apt autoremove
+sudo apt autoclean
+port 80 (HTTP), 443 (HTTPS), 21 (FTP)
+22 (SSH ), 25 (SMTP ), 53(DNS ) 110 (POP3 )
+143 (IMAP)
+
+bash filename 
+./
+
+cript/trap.sh
+
+
+
+#!/bin/bash
+
+trap " echo 'dir already exist ';exit 1" ERR
+
+mkdir demo 
+
+echo "this will not print "
+
+
+S3 :- Simple storage service 
+object >>
+anytype >.txt .pdf.
+
+object
+5TB
+
+multipart 5GB
+
+
+create a code for me making one website name gym with using htdl,css and js language and all code in one file
